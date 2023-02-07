@@ -5,5 +5,6 @@ Tạo bởi:
   - Bùi Hữu Việt
 
 Project bao gồm:
+  - RSR (biên bản xây dựng phần mềm) của IEEE
   - Tạo landing page cho CV
   - Tạo 1 trang web bán hàng 
