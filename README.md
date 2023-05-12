@@ -5,6 +5,23 @@ Tạo bởi:
   - Bùi Hữu Việt
 
 Project bao gồm:
-  - SRS (biên bản xây dựng phần mềm) của IEEE
-  - Tạo landing page cho CV
-  - Tạo 1 trang web bán hàng 
+  - 2 trang portfolio của Vũ Tuấn Hợp và Bùi Hữu Việt
+  - 1 Website cho nhà hàng
+
+Dự án dùng những công nghệ:
+- Frontend:
+  + HTML
+  + CSS
+  + JAVASCRIPT
+- Backend:
+  + PHP
+- Database:
+  + MySQL
+ 
+ Chức năng:
+ - Chia làm 2 trang cho user và admin
+ - User có thể xem menu, đặt đồ ăn
+ - Admin có thể:
+  + Quản lý các món ăn
+  + Quản lý người dùng
+  + Quản lý admin
