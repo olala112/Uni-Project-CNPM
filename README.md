@@ -22,6 +22,6 @@ Dự án dùng những công nghệ:
  - Chia làm 2 trang cho user và admin
  - User có thể xem menu, đặt đồ ăn
  - Admin có thể:
-  + Quản lý các món ăn
-  + Quản lý người dùng
-  + Quản lý admin
+    + Quản lý các món ăn
+    + Quản lý người dùng
+    + Quản lý admin
